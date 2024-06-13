@@ -6,6 +6,8 @@ The wool industry is not organized properly in terms of production and market di
 ### Problem:
 Woolfy aims to organize the wool industry by providing a platform where farmers can list their wool, interested companies can purchase it, and consumers can buy finished wool products.
 
+- Frontend: [https://github.com/biswabaibhab007/D3WoolfyFrontEnd.git]
+- Backend: [https://github.com/biswabaibhab007/D3WoolfyBackEnd.git] 
 ### Installation Instructions
 > Clone the repository using Git:
 git clone [https://github.com/biswabaibhab007/D3Woolfy.git]
