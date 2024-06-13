@@ -35,21 +35,21 @@ npm start
   No wastage of wool, and the process is organized.
 
 ## Technologies Used
-Front-End: React + Vite, TailwindCSS
-Back-End: ExpressJS
-Database: MongoDB
-Dependencies:
+- Front-End: React + Vite, TailwindCSS
+- Back-End: ExpressJS
+- Database: MongoDB
 
-axios: ^1.5.1
-framer-motion: ^10.16.4
-node: ^20.7.0
-react: ^18.2.0
-react-dom: ^18.2.0
-react-icons: ^4.11.0
-react-js-dialog-box: ^1.1.6
-react-router-dom: ^6.16.0
-react-scroll: ^1.8.9
-swiper: ^10.3.1
-Contact Information
+### Dependencies:
+- axios: ^1.5.1
+- framer-motion: ^10.16.4
+- node: ^20.7.0
+- react: ^18.2.0
+- react-dom: ^18.2.0
+- react-icons: ^4.11.0
+- react-js-dialog-box: ^1.1.6
+- react-router-dom: ^6.16.0
+- react-scroll: ^1.8.9
+- swiper: ^10.3.1
 
-For support or questions, contact: biswabaibhab007@gmail.com
+### Contact Information
+Feel free to contact: biswabaibhab007@gmail.com
